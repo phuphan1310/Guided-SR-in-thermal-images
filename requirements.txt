@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy 
+torchvision
+scipy
+thop
+Pillow
+tqdm
