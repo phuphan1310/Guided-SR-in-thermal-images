@@ -79,4 +79,29 @@ python train_kaist_from_flir.py \
   --max_samples 1000
 ```
 
+## Stage 3: Fine-tuning on VEDAI
+
+```bash
+python train_vedai_from_kaist.py \
+  --pretrained [KAIST_MODEL_PATH] \
+  --scale 4 \
+  --num_feats 32 \
+  --epoch 100 \
+  --lr 0.00005 \
+  --batchsize 4 \
+  --max_samples 1000
+```
+
+## Stage 4: Fine-tuning on Sugar beet 2016
+```bash
+python train_sugarbeet_from_vedai.py \
+  --pretrained [VEDAI_MODEL_PATH] \
+  --scale 4 \
+  --num_feats 32 \
+  --epoch 100 \
+  --lr 0.00005 \
+  --batchsize 4 \
+  --max_samples 1000
+```
+
   
