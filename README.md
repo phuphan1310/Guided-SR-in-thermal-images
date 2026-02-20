@@ -104,4 +104,8 @@ python train_sugarbeet_from_vedai.py \
   --max_samples 1000
 ```
 
+
+## Citation
+
+If you find this work useful, please consider citing the original SGNet paper: https://arxiv.org/pdf/2312.05799
   
