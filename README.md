@@ -8,8 +8,10 @@
 
 ---
 
-## Our 3D CAD of full product
+## 3D CAD of our product
 For further details of our full design, please click on the following link: https://cad.onshape.com/documents/c03dc00e69275b6d8de646d9/w/dff503eb9fe2f4284a8bd7b3/e/ad6678004eb5e5bc5f7c590d
+
+![Our product](3d_cad.png)
 
 ## 📌 Overview
 
