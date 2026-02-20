@@ -28,6 +28,7 @@ scipy==1.11.3
 tqdm==4.65.0
 Pillow==10.0.1
 matplotlib==3.8.0
+```
 
 # Datasets
 
@@ -63,6 +64,7 @@ python train_flir.py \
   --epoch 200 \
   --batchsize 4 \
   --max_samples 1000
+  ```
 
 ## Stage 2: Fine-tuning on Kaist
 
@@ -75,6 +77,6 @@ python train_kaist_from_flir.py \
   --lr 0.00005 \
   --batchsize 4 \
   --max_samples 1000
-
+```
 
   
