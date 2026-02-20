@@ -8,6 +8,9 @@
 
 ---
 
+## Our 3D CAD of full product
+For further details of our full design, please click on the following link: https://cad.onshape.com/documents/c03dc00e69275b6d8de646d9/w/dff503eb9fe2f4284a8bd7b3/e/ad6678004eb5e5bc5f7c590d
+
 ## 📌 Overview
 
 This repository contains our implementation of **thermal image super-resolution** based on the **SGNet architecture**, enhanced through **sequential transfer learning across multiple datasets** for improved generalization in remote sensing applications.
